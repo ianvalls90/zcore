@@ -50,9 +50,13 @@ I've structured this project to be as development friendly as possible so it's o
 ## Resources
 
 ### Core
+- [z-core](https://github.com/qbcore-framework/qb-core) - WIP
+- [z-logs](https://github.com/qbcore-framework/qb-logs) - WIP
+- [z-multicharacter](https://github.com/qbcore-framework/qb-multicharacter) - WIP
+- [z-spawn](https://github.com/qbcore-framework/qb-spawn) - WIP
 
 ### Standalone
-- [dpemotes](https://github.com/andristum/dpemotes) - Modified
+- [dpemotes](https://github.com/andristum/dpemotes) - WIP
 
 ### MLOs / Maps
 - [Gabz Mission Row Police Department](https://www.gabzv.com/products/mission-row-police-department) ²
