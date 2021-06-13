@@ -33,7 +33,7 @@ I've structured this project to be as development friendly as possible so it's o
 ```
 +-- artifact/              - FiveM source
 +-- mariadb/               - MariaDB source
-+-- server/                - main directory for the server and what gets sent (essentally www)        
++-- server/                - main directory for the server and what gets sent       
 |   +-- resources/         - Core resource directory for all the server modules
 |   |   +-- [assets]/      - All streaming assets
 |   |   +-- [dev]/         - Dev only scripts
@@ -64,4 +64,5 @@ I've structured this project to be as development friendly as possible so it's o
 ## Thanks
 
 KASH4 (The original QBus developer) has released the original qbus into the open source [proof here](https://github.com/KASH4/qbus/issues/1)
+
 QBCore is currently being actively worked on with MIT License status [here](https://github.com/qbcore-framework)
