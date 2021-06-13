@@ -65,6 +65,13 @@ I've structured this project to be as development friendly as possible so it's o
 
 **²You must purchase this product and add it in yourself. Please don't steal assets that people work hard on ♥**
 
+
+## License
+
+Everything in here is MIT Open Source **EXCEPT** where otherwise stated in a resources's readme.md
+
+Anything that is closed source or up for sale somewhere will **NOT** be included in this project
+
 ## Thanks
 
 KASH4 (The original QBus developer) has released the original qbus into the open source [proof here](https://github.com/KASH4/qbus/issues/1)
